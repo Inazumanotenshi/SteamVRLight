@@ -8,7 +8,7 @@ SteamVR Light allowes you to easely replace all the pngs that SteamVR access to 
 Because its only pngs there can not happen so much that destroys it.
 
 
-##Issues
+## Issues
 
 - SteamVR icons will be replaced when you need to fix your SteamVR application over the client
 - if there are multiple installations of SteamVR you need to select that one, that you want to change, else it will only replace the iconset of the default SteamVR paths
