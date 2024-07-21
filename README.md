@@ -8,6 +8,7 @@ SteamVR Light allowes you to easely replace all the pngs that SteamVR access to 
 Because its only pngs there can not happen so much that destroys it.
 
 (Example: SteamVR Light Sunrise)
+
 ![Example](https://github.com/user-attachments/assets/cb785c58-012f-44b2-bb90-6de08f22ee12)
 
 
