@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.521,C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Unit1.pas=D:\dev\SteamVRLightRework\UnitMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,=C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Project1.dproj=D:\dev\SteamVRLightRework\SteamVRLight.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=D:\dev\SteamVRLightRework\UnitMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
