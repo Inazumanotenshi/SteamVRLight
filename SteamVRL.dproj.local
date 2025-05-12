@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.942,=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Unit1.pas=C:\dev\SteamVRLight\SteamVRLight.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,=C:\dev\SteamVRLight\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,F:\dev\SteamVRLight\Unit1.pas=F:\dev\SteamVRLight\Units\GetMostUsedConfiguration.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\dev\SteamVRLight\SteamVRL.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,C:\dev\SteamVRLight\SteamVRL.dproj=C:\dev\SteamVRLight\SteamVRL.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\Users\nicoh\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=C:\dev\SteamVRLight\SteamVRLight.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,D:\dev\SteamVRLight\Unit1.dfm=D:\dev\SteamVRLight\Forms\FormCompabilityIssue.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,=F:\dev\SteamVRLight\Units\GetMostUsedConfiguration</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,D:\dev\SteamVRLight\Unit1.pas=D:\dev\SteamVRLight\Forms\FormCompabilityIssue.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,=D:\dev\SteamVRLight\Unit1.pas</Transaction>
+    <Transaction>2025.05.12 10:00:20.060,F:\dev\SteamVRLight\Units\VRConfig.pas=F:\dev\SteamVRLight\Units\GetMostUsedConfiguration.pas</Transaction>
+    <Transaction>2025.05.12 10:14:10.781,=F:\dev\SteamVRLight\Unit1.pas</Transaction>
+    <Transaction>2025.05.12 10:15:19.132,F:\dev\SteamVRLight\Forms\FormRequestVRConfig.dfm=F:\dev\SteamVRLight\Unit1.dfm</Transaction>
+    <Transaction>2025.05.12 10:15:19.132,F:\dev\SteamVRLight\Forms\FormRequestVRConfig.pas=F:\dev\SteamVRLight\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
